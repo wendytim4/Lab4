@@ -1,0 +1,17 @@
+[
+      {
+            "name": "Krobea",
+            "class_group": 2024,
+            "voter_Id": 1
+      },
+      {
+            "name": "Wendy",
+            "class_group": 2024,
+            "voter_Id": 2
+      },
+      {
+            "name": "Carol",
+            "class_group": 2026,
+            "voter_Id": 3
+      }
+]
